@@ -28,7 +28,7 @@
     "gatsby-plugin-netlify-cache": "^1.2.0",
     "gatsby-plugin-notifications": "^0.0.2",
     "gatsby-plugin-react-svg": "^3.0.0",
-    "gatsby-plugin-sharp": "2.5.7",
+    "gatsby-plugin-sharp": "2.14.4",
     "gatsby-source-filesystem": "^2.2.5",
     "gatsby-source-wordpress-experimental": "^7.0.6",
     "gatsby-transformer-sharp": "2.4.7",
