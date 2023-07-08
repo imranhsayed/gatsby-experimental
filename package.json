@@ -31,7 +31,7 @@
     "gatsby-plugin-sharp": "2.14.4",
     "gatsby-source-filesystem": "^2.2.5",
     "gatsby-source-wordpress-experimental": "^7.0.6",
-    "gatsby-transformer-sharp": "2.4.7",
+    "gatsby-transformer-sharp": "2.12.1",
     "react": "^16.13.1",
     "react-dom": "^16.13.1",
     "react-paginate": "^6.3.2"
